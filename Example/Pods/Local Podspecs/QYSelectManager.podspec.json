@@ -1,0 +1,22 @@
+{
+  "name": "QYSelectManager",
+  "version": "0.1.0",
+  "summary": "A short description of QYSelectManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/范庆宇_24961/QYSelectManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "范庆宇_24961": "24961@etransfar.com"
+  },
+  "source": {
+    "git": "https://github.com/范庆宇_24961/QYSelectManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QYSelectManager/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module QYSelectManager {
+  umbrella header "QYSelectManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

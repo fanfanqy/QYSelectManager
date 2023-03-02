@@ -1,0 +1,16 @@
+PODS:
+  - QYSelectManager (0.1.0)
+
+DEPENDENCIES:
+  - QYSelectManager (from `../`)
+
+EXTERNAL SOURCES:
+  QYSelectManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QYSelectManager: 7f5eafa50530e28e1c5df04deeb23ee720e5135e
+
+PODFILE CHECKSUM: 2667c156681b95eda0b67afd43aa986b0ced9380
+
+COCOAPODS: 1.11.3
